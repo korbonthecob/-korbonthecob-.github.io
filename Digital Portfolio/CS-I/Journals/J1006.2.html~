@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CS-I Journal J1006</title>
+  </head>
+
+
+  CS-I Journal J1002: Shell
+  Name: Ethan Korb
+  Date: 1-9-2022
+
+  I recieved assistance from: Mina Soliman
+  I assisted: N/A
+
+  1.1
+  It shows the date I made the edit, and what I typed.
+
+  1.2
+  Git log shows what you've done, and git commit allows you to make an edit.
+
+  1.3
+  A log is a record of the past.
+
+  2.1
+  File 1 is being tracked, while file 2 is listed as untracked.
+
+  2.2
+  No, they aren't displayed in the same section, most likely for the same reason as listed above.
+
+  3.1
+  File 1 isn't listed, but File 2 is listed as a new file/
+
+  4.1
+  2 Files are listed as being changed.
+
+  4.2
+  It say -0 and 0+1, and it's listed in blue.
+
+  5.1
+  I'm pretty sure I did something incorrect because it looks exactly the same.
